@@ -1,4 +1,4 @@
-# Project MindCura
+# MindCura Project
 MindCura is an Artificial Intelligence project for mental health funded by the Ministry of Education, Culture, Research and Technology.
 
 Library for this project:
