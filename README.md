@@ -1,7 +1,6 @@
 # MindCura Project
 MindCura is an Artificial Intelligence project for mental health funded by the Ministry of Education, Culture, Research and Technology.
 
-Library for this project:
 
 Unity ML-Agents Toolkit: v0.17.0
 PyTorch: v1.10.0
