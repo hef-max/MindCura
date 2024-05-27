@@ -1,19 +1,4 @@
 # MindCura Project
-MindCura is an Artificial Intelligence project for mental health funded by the Ministry of Education, Culture, Research and Technology.
 
-
-Unity ML-Agents Toolkit: v0.17.0
-PyTorch: v1.10.0
-TensorFlow: v2.8.0
-OpenCV: v4.5.3
-NLTK (Natural Language Toolkit): v3.6.5
-spaCy: v3.2.1
-Pandas: v1.3.3
-NumPy: v1.21.2
-SciPy: v1.7.1
-PyAudio: v0.2.11
-librosa: v0.8.1
-Transformers (Hugging Face): v4.11.3
-Hugging Face Transformers: v4.11.3
-Flask: v2.0.1
-SQLAlchemy: v1.4.25
+Dataset :
+https://kaggle.com/datasets/3a0e47d9b30ea3fc7c4caa5bc6adf56dcd5da15b31bbcb8b405db0e76f6039c2
